@@ -1,0 +1,26 @@
+{
+  "name": "jest-exercise",
+  "version": "1.0.0",
+  "description": "Jest Exercise",
+  "main": "script/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ananth-thE-CodER/Jest-Exercise.git"
+  },
+  "author": "Ananth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ananth-thE-CodER/Jest-Exercise/issues"
+  },
+  "homepage": "https://github.com/Ananth-thE-CodER/Jest-Exercise#readme",
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "babel-jest": "^30.0.4",
+    "jest": "^30.0.4"
+  }
+}
